@@ -5,3 +5,7 @@
 
 - Programming languages: JavaScript (ReactJS) and Solidity
 
+## Gists
+
+You may checkout my collection of gists for Solidity smart contracts here: https://gist.github.com/KBPsystem777
+
