@@ -29,3 +29,5 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 ## Web3 projects
 - [PandaSiege](https://pandasiege.app/): Integrating the web app's crowdsale/pre-sale into the Smart Contracts, building the page as per requirements and integrating the WebGL version of the decentralized game.
 
+- [Blockshots Metaverse](https://blockshots.io/): BlockShots is a decentralized game application which is multi-player free to play game which enables users to earn crypto-currencies.
+
