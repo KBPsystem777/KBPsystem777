@@ -20,6 +20,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 - [Avax-Gloria token](https://testnet.snowtrace.io/token/0x7fa1ade4ddc892b1ede31f9abc79671ec2561752): An ERC20 token built in Avalanche network.
 - [Renzo token](https://testnet.bscscan.com/token/0x31ac89bfa27554b9508ac9863bd90c2cc9cdc3fe): An ERC20 token built in Binance Smart Chain (BSC) network.
+- [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
 
 ## Solana projects
 - [KBPsystem](https://solscan.io/address/H5HRuvo7SxVyLaWZqN4gKAR4bmiS9boh9EDuEQgdtqyZ?cluster=devnet): This is a personal token, this SPL token is an equivalent of ERC20 token of Ethereum networks.
