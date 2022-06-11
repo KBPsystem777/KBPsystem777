@@ -18,7 +18,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 - [Meme NFT Smart contract](https://mumbai.polygonscan.com/token/0x8cc01b1654288c79af5b090e3664310f38acb792): This is a meme NFT smart contract, created for fun only. This has the capabality of ERC721 features like minting, transfer and storing NFT metadata in IPFS using Piñata gateway. Project repository can be found [here](https://github.com/KBPsystem777/meme-nft-smart-contract).
 
-- [GameNyx NFT Smart contract](https://gist.github.com/KBPsystem777/6c56cecd73eafe70b076c83ac80ff916): This is a smart contract for GameNyx's NFT minting page.
+- [GameNyx NFT Smart contract](https://gist.github.com/KBPsystem777/6c56cecd73eafe70b076c83ac80ff916): This is a smart contract for GameNyx's NFT minting page. NFTs on this contract can be verify in OpenSea testnet here: https://testnets.opensea.io/collection/gamenyx-nft-v4
 
 - [Avax-Gloria token](https://testnet.snowtrace.io/token/0x7fa1ade4ddc892b1ede31f9abc79671ec2561752): An ERC20 token built in Avalanche network.
 - [Renzo token](https://testnet.bscscan.com/token/0x31ac89bfa27554b9508ac9863bd90c2cc9cdc3fe): An ERC20 token built in Binance Smart Chain (BSC) network.
