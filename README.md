@@ -10,9 +10,9 @@
 
 You may checkout my collection of gists below for Solidity smart contracts or visit https://gist.github.com/KBPsystem777
 
-- [Payable counters function](https://gist.github.com/KBPsystem777/ecd012747f120ec5573639a627dc70cb): Payable counter contract to increment/decrement. This accepts Ethers in order to run the functions and the owner has the capability to withdraw funds generated from running the increment/decrement function.
-
-- [KBPsystem NFT](https://gist.github.com/KBPsystem777/bc68359dd1012e072ed23a334f514a22): This contract implement ERC721 for KBPsystem's NFT collection. This includes several functions like setting the URI, withdrawal of contract funds and checking if available contract funds.
+- [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
+- 
+- [ManageLife](https://github.com/kbpsystem777/ml-contracts): A decentralized real-estate management platform.
 
 - [SHIBv2.0 - Burnable ERC20](https://github.com/KBPsystem777/Shib-Token-Burnable): Adding `burn` function to ERC20 contract where token holders can burn their own tokens.
 
@@ -22,7 +22,6 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 - [Avax-Gloria token](https://testnet.snowtrace.io/token/0x7fa1ade4ddc892b1ede31f9abc79671ec2561752): An ERC20 token built in Avalanche network.
 - [Renzo token](https://testnet.bscscan.com/token/0x31ac89bfa27554b9508ac9863bd90c2cc9cdc3fe): An ERC20 token built in Binance Smart Chain (BSC) network.
-- [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
 
 ## Solana projects
 - [KBPsystem](https://solscan.io/address/H5HRuvo7SxVyLaWZqN4gKAR4bmiS9boh9EDuEQgdtqyZ?cluster=devnet): This is a personal token, this SPL token is an equivalent of ERC20 token of Ethereum networks.
@@ -33,4 +32,6 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 - [PandaSiege](https://pandasiege.app/): Integrating the web app's crowdsale/pre-sale into the Smart Contracts, building the page as per requirements and integrating the WebGL version of the decentralized game.
 
 - [Blockshots Metaverse](https://blockshots.io/): BlockShots is a decentralized game application which is multi-player free to play game which enables users to earn crypto-currencies.
+
+- [ManageLife](https://www.managelife.co): A decentralized real-estate management platform
 
