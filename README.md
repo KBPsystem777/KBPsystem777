@@ -11,7 +11,7 @@
 You may checkout my collection of gists below for Solidity smart contracts or visit https://gist.github.com/KBPsystem777
 
 - [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
-- 
+
 - [ManageLife](https://github.com/kbpsystem777/ml-contracts): A decentralized real-estate management platform.
 
 - [SHIBv2.0 - Burnable ERC20](https://github.com/KBPsystem777/Shib-Token-Burnable): Adding `burn` function to ERC20 contract where token holders can burn their own tokens.
