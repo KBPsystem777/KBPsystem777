@@ -10,18 +10,13 @@
 
 You may checkout my collection of gists below for Solidity smart contracts or visit https://gist.github.com/KBPsystem777
 
+- [ManageLife](https://managelife.co): A decentralized real-estate management platform.
+- [ManageLife Token](https://etherscan.io/address/0x113361a5ca06a36b63646d6ab076f3d040970c97): ManageLife ERC20 Token
+- [ManageLife NFT](https://etherscan.io/address/0x5aa43df98b3fa29595c2884f16ee977fbf3ec344): ManageLife Member's NFT
+- [ManageLife Marketplace](https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746): Decentralized platform for ManageLife
+
 - [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
 
-- [ManageLife](https://web3.managelifeapi.co): A decentralized real-estate management platform.
-
-- [SHIBv2.0 - Burnable ERC20](https://github.com/KBPsystem777/Shib-Token-Burnable): Adding `burn` function to ERC20 contract where token holders can burn their own tokens.
-
-- [Meme NFT Smart contract](https://mumbai.polygonscan.com/token/0x8cc01b1654288c79af5b090e3664310f38acb792): This is a meme NFT smart contract, created for fun only. This has the capabality of ERC721 features like minting, transfer and storing NFT metadata in IPFS using Piñata gateway. Project repository can be found [here](https://github.com/KBPsystem777/meme-nft-smart-contract).
-
-- [GameNyx NFT Smart contract](https://gist.github.com/KBPsystem777/6c56cecd73eafe70b076c83ac80ff916): This is a smart contract for GameNyx's NFT minting page. NFTs on this contract can be verify in OpenSea testnet here: https://testnets.opensea.io/collection/gamenyx-nft-v4
-
-- [Avax-Gloria token](https://testnet.snowtrace.io/token/0x7fa1ade4ddc892b1ede31f9abc79671ec2561752): An ERC20 token built in Avalanche network.
-- [Renzo token](https://testnet.bscscan.com/token/0x31ac89bfa27554b9508ac9863bd90c2cc9cdc3fe): An ERC20 token built in Binance Smart Chain (BSC) network.
 
 ## Solana projects
 - [KBPsystem](https://solscan.io/address/H5HRuvo7SxVyLaWZqN4gKAR4bmiS9boh9EDuEQgdtqyZ?cluster=devnet): This is a personal token, this SPL token is an equivalent of ERC20 token of Ethereum networks.
