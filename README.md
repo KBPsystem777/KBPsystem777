@@ -14,6 +14,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 - [ManageLife Token](https://etherscan.io/address/0x113361a5ca06a36b63646d6ab076f3d040970c97): ManageLife ERC20 Token
 - [ManageLife NFT](https://etherscan.io/address/0x5aa43df98b3fa29595c2884f16ee977fbf3ec344): ManageLife Member's NFT
 - [ManageLife Marketplace](https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746): Decentralized platform for ManageLife
+- [ManageLife Investor's NFT](https://etherscan.io/address/0x553e305f2d8dca274b19b1cef35720d4bc7f8fa0): NFT for ML Investors
 
 - [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
 
