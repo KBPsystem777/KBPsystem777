@@ -23,7 +23,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 ## Solana projects
 - [KBPsystem](https://solscan.io/address/H5HRuvo7SxVyLaWZqN4gKAR4bmiS9boh9EDuEQgdtqyZ?cluster=devnet): This is a personal token, this SPL token is an equivalent of ERC20 token of Ethereum networks.
 
-- [PenguinHero - In-development](https://penguinnft.vercel.app/): This is a Solana based NFT marketplace which is in development stage at this moment. This NFT marketplace handles buy and sell of NFTs as well as royalties generation.
+- [PenguinHero - In-development](): This is a Solana based NFT marketplace which is in development stage at this moment. This NFT marketplace handles buy and sell of NFTs as well as royalties generation.
 
 ## Web3 projects
 - [PandaSiege](https://pandasiege.app/): Integrating the web app's crowdsale/pre-sale into the Smart Contracts, building the page as per requirements and integrating the WebGL version of the decentralized game.
