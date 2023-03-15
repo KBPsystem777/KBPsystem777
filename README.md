@@ -1,6 +1,6 @@
 # KBPsystem777
 - Name: Koleen Baes Paunon
-- Intro: I am Koleen, I am a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. I work with private sector and start-ups focused in decentralized finance (DeFi), gaming and DAOs.
+- Intro: I am Koleen, I am a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. I build decentralized applications (DApps) revolving around finance (DeFi), gaming (GameFi), real-estate, personal data, automotives and governance sectors.
 - X [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
 - Website: https://koleenbp.com
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
