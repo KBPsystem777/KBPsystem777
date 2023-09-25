@@ -19,16 +19,6 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 - [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
 
-
-## Solana projects
-- [KBPsystem](https://solscan.io/address/H5HRuvo7SxVyLaWZqN4gKAR4bmiS9boh9EDuEQgdtqyZ?cluster=devnet): This is a personal token, this SPL token is an equivalent of ERC20 token of Ethereum networks.
-
-- [PenguinHero - In-development](): This is a Solana based NFT marketplace which is in development stage at this moment. This NFT marketplace handles buy and sell of NFTs as well as royalties generation.
-
 ## Web3 projects
-- [PandaSiege](https://pandasiege.app/): Integrating the web app's crowdsale/pre-sale into the Smart Contracts, building the page as per requirements and integrating the WebGL version of the decentralized game.
-
-- [Blockshots Metaverse](https://blockshots.io/): BlockShots is a decentralized game application which is multi-player free to play game which enables users to earn crypto-currencies.
-
-- [ManageLife](https://www.managelife.co): A decentralized real-estate management platform
+- [ManageLife](https://www.managelife.io): A decentralized real-estate management platform
 
