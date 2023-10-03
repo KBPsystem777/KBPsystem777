@@ -1,6 +1,6 @@
 # KBPsystem777
 - Name: Koleen BP
-- Intro: I am Koleen, I am a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. I build decentralized applications (DApps) revolving around finance (DeFi), gaming (GameFi), real-estate, personal data, automotives and governance sectors.
+- Intro: Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. He builds decentralized applications (DApps) revolving around finance (DeFi), gaming (GameFi), real-estate, personal data, automotives and governance sectors.
 - Former [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
 - Web: https://koleenbp.com
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
@@ -17,8 +17,4 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 - [ManageLife Marketplace](https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746): Decentralized platform for ManageLife
 - [ManageLife Investor's NFT](https://etherscan.io/address/0x553e305f2d8dca274b19b1cef35720d4bc7f8fa0): NFT for ML Investors
 
-- [Valyrian Network](https://vlnt.vercel.app/): This is a personal project which I aim to be a Decentralized Autonomous Organization (DAO).
-
-## Web3 projects
-- [ManageLife](https://www.managelife.io): A decentralized real-estate management platform
 
