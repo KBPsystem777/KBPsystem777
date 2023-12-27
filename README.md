@@ -1,5 +1,7 @@
 # KBPsystem777
-Koleen BP
+
+[![wakatime](https://wakatime.com/badge/user/7d99c5ac-1c90-4a13-8706-47306dc78f9d.svg)](https://wakatime.com/@7d99c5ac-1c90-4a13-8706-47306dc78f9d)
+
 
 Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. He builds decentralized applications (DApps) revolving around finance (DeFi), gaming (GameFi), real-estate, personal data, automotives and governance sectors.
 - Former [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
