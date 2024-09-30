@@ -9,6 +9,8 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 - Twitter: [@kbpsystem](https://twitter.com/kbpsystem)
 - Programming languages: JavaScript (ReactJS) and Solidity
 - Former [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
+- On a mission to onboard developers into web3 at [DevUp!](https://www.devup.academy/)
+- [Linktree - Koleen Paunon](https://linktr.ee/koleenbp)
 
 
 ## Solidity smart contracts
