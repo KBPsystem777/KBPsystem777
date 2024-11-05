@@ -23,4 +23,5 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 - [ManageLife Marketplace](https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746): Decentralized platform for ManageLife
 - [ManageLife Investor's NFT](https://etherscan.io/address/0x553e305f2d8dca274b19b1cef35720d4bc7f8fa0): NFT for ML Investors
 
-
+## My Personal thoughts about Blockchain 💻🔗
+[Blockchain Dev Journey](https://github.com/KBPsystem777/blockchain-development-journey)
