@@ -25,3 +25,5 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## My Personal thoughts about Blockchain 💻🔗
 [Blockchain Dev Journey](https://github.com/KBPsystem777/blockchain-development-journey)
+
+[My first time @ devcon](https://koleenbp.substack.com/p/my-devcon7-experience-exploring-bangkok)
