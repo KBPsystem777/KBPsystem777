@@ -28,21 +28,29 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## 📰Featured Articles
 
-▶️ [Blockchain and Solidity 101 @ Davao](https://www.facebook.com/share/p/15W1gmjw79/)
+▶️ [Koleen BP, Blockchain Student Alliance & Bitskwela - BitDev! @ University of Southeastern Philippines](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-southeastern-philippines)
+
+![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png)
+
+▶️ [Blockchain and Solidity 101 @ Davao's USEP](https://www.facebook.com/share/p/15W1gmjw79/)
 
 ![image](image.png)
 
-▶️ [Koleen BP & Bitskwela@ DevCon Thailand](https://www.bitdigest.io/posts/bitskwela-attends-thailand-blockchain-week-global-ethereum-conference---devcon-sea-and-community-events-in-bangkok-thailand)
+▶️ [Koleen BP & Bitskwela @ DevCon Thailand](https://www.bitdigest.io/posts/bitskwela-attends-thailand-blockchain-week-global-ethereum-conference---devcon-sea-and-community-events-in-bangkok-thailand)
 
 ![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/674aef08f98b4a7a25e48f8d_compressed%252FzHe3N4VK_uploaded_with_phoneflow.webp)
-
-▶️ [Koleen BP & Bitskwela - BitDev! @ University of Southeastern Philippines](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-southeastern-philippines)
-
-![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png)
 
 ▶️ [Koleen BP: Blockchain Student Alliance | Bitskwela & BitDev! @ University of the Cordilleras](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-the-cordilleras?fbclid=IwY2xjawH2E6NleHRuA2FlbQIxMAABHSGxrg2moNb-sfjE1jBqFPtK8gQorEpA9PPc4G_YC0EXBVxuXMAbayGCYA_aem_dEbzne9T3O2gqkvJABgVsg)
 
 ![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/6753ad90c8a57c460f1c1dc0_bsa-uni-of-cordilleras.png)
+
+▶️ [Bitcoin @ 100K 🚀](https://www.facebook.com/share/p/1GcVRkGVrN/)
+
+![Koleen with DICT PH Tech officials](image-3.png)
+
+▶️ [Department of Information, Communications and Technology: Blockchain Technology Training](https://www.facebook.com/share/p/15tX7btNU5/)
+
+![image](image-4.png)
 
 ▶️ [DevUp! Academy @ Oriental Mindoro](https://www.facebook.com/share/p/15uTVJZh6C/)
 
