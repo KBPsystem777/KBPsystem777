@@ -28,21 +28,21 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## 📰Featured Articles
 
-▶️ [Koleen BP, Blockchain Student Alliance & Bitskwela - BitDev! @ University of Southeastern Philippines](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-southeastern-philippines)
+▶️ [Blockchain Student Alliance & Bitskwela - BitDev! @ University of Southeastern Philippines](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-southeastern-philippines)
 
-![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png)
+<image src="https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png" height="250" width="500">
 
 ▶️ [Blockchain and Solidity 101 @ Davao's USEP](https://www.facebook.com/share/p/15W1gmjw79/)
 
 ![image](image.png)
 
-▶️ [Koleen BP & Bitskwela @ DevCon Thailand](https://www.bitdigest.io/posts/bitskwela-attends-thailand-blockchain-week-global-ethereum-conference---devcon-sea-and-community-events-in-bangkok-thailand)
+▶️ [@ DevCon Thailand](https://www.bitdigest.io/posts/bitskwela-attends-thailand-blockchain-week-global-ethereum-conference---devcon-sea-and-community-events-in-bangkok-thailand)
 
-![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/674aef08f98b4a7a25e48f8d_compressed%252FzHe3N4VK_uploaded_with_phoneflow.webp)
+<image src="https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/674aef08f98b4a7a25e48f8d_compressed%252FzHe3N4VK_uploaded_with_phoneflow.webp" height="250" width="500">
 
-▶️ [Koleen BP: Blockchain Student Alliance | Bitskwela & BitDev! @ University of the Cordilleras](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-the-cordilleras?fbclid=IwY2xjawH2E6NleHRuA2FlbQIxMAABHSGxrg2moNb-sfjE1jBqFPtK8gQorEpA9PPc4G_YC0EXBVxuXMAbayGCYA_aem_dEbzne9T3O2gqkvJABgVsg)
+▶️ [Blockchain Student Alliance | Bitskwela & BitDev! @ University of the Cordilleras](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-the-cordilleras?fbclid=IwY2xjawH2E6NleHRuA2FlbQIxMAABHSGxrg2moNb-sfjE1jBqFPtK8gQorEpA9PPc4G_YC0EXBVxuXMAbayGCYA_aem_dEbzne9T3O2gqkvJABgVsg)
 
-![image](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/6753ad90c8a57c460f1c1dc0_bsa-uni-of-cordilleras.png)
+<image src="https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/6753ad90c8a57c460f1c1dc0_bsa-uni-of-cordilleras.png" height="250" width="500">
 
 ▶️ [Bitcoin @ 100K 🚀](https://www.facebook.com/share/p/1GcVRkGVrN/)
 
@@ -58,7 +58,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ▶️ [Cryptography with Polkadot](https://www.facebook.com/share/p/1BYMyG37i6/)
 
-▶️ [Koleen BP: Live coding session with FWD Peers Philippines!](https://www.youtube.com/watch?v=Hl3c-2x5Isk)
+▶️ [Live coding session with FWD Peers Philippines!](https://www.youtube.com/watch?v=Hl3c-2x5Isk)
 
 ![FWDP-PH](image-2.png)
 
