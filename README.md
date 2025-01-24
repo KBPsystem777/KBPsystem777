@@ -34,7 +34,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ▶️ [Blockchain and Solidity 101 @ Davao's USEP](https://www.facebook.com/share/p/15W1gmjw79/)
 
-![image](image.png)
+<image src="image.png" alt="With USEP Davao!" height="400" width="500">
 
 ▶️ [@ DevCon Thailand](https://www.bitdigest.io/posts/bitskwela-attends-thailand-blockchain-week-global-ethereum-conference---devcon-sea-and-community-events-in-bangkok-thailand)
 
@@ -46,21 +46,21 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ▶️ [Bitcoin @ 100K 🚀](https://www.facebook.com/share/p/1GcVRkGVrN/)
 
-![Koleen with DICT PH Tech officials](image-3.png)
+<image alt="Koleen with DICT PH Tech officials" src="image-3.png" height="450" width="500">
 
 ▶️ [Department of Information, Communications and Technology: Blockchain Technology Training](https://www.facebook.com/share/p/15tX7btNU5/)
 
-![image](image-4.png)
+<image src="image-4.png" alt="DICT Traning" height="450" width="500">
 
 ▶️ [DevUp! Academy @ Oriental Mindoro](https://www.facebook.com/share/p/15uTVJZh6C/)
 
-![alt text](image-1.png)
+<image alt="DevUp! @ Oriental Mindoro" src="image-1.png" height="350" width="500">
 
 ▶️ [Cryptography with Polkadot](https://www.facebook.com/share/p/1BYMyG37i6/)
 
 ▶️ [Live coding session with FWD Peers Philippines!](https://www.youtube.com/watch?v=Hl3c-2x5Isk)
 
-![FWDP-PH](image-2.png)
+<image alt="FWDP-PH" src="image-2.png" height="350" width="500">
 
 ## My Personal thoughts about Blockchain 💻🔗
 
