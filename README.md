@@ -5,12 +5,15 @@
 Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. He builds decentralized applications (DApps) revolving around finance (DeFi), gaming (GameFi), real-estate, personal data, automotives and governance sectors.
 
 - Web: https://koleenbp.com
+- [Koleen's Resume](https://drive.google.com/drive/folders/1__81RTu1RbLbmKZFXTG_20HkIzs_z4g6) 
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
 - Twitter: [@kbpsystem](https://twitter.com/kbpsystem)
-- Programming languages: JavaScript (ReactJS) and Solidity
-- Former [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
-- On a mission to onboard developers into web3 at [DevUp!](https://www.devup.academy/)
+- Programming languages: JavaScript (ReactJS),  Solidity and Rust
+- On a mission to onboard developers into web3 and briging the world on-chain with [Bitskwela](https://bitskwela.com) & [DevUp!](https://www.devup.academy/)
 - [Linktree - Koleen Paunon](https://linktr.ee/koleenbp)
+- Former [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
+
+
 
 ## Solidity smart contracts
 
