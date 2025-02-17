@@ -29,7 +29,14 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 - [ML Marketplace](https://market.managelife.io): Smart contracts and web3 integration developer
 
-## 📰Featured Articles
+## 📰Featured Articles and Activities
+
+
+▶️ [Blockchain Student Alliance & Sonic CodeCamp @ Pamantasan ng Lungsod ng Maynila](https://x.com/bitskwela/status/1890566702787674463)
+
+
+<image src="https://github.com/user-attachments/assets/09005e33-6a36-4c7e-8b3f-7f8170c53409" height="600" width="600">
+
 
 ▶️ [Blockchain Student Alliance & Bitskwela - BitDev! @ University of Southeastern Philippines](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-southeastern-philippines)
 
