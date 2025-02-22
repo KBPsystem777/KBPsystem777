@@ -32,7 +32,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 ## 📰Featured Articles and Activities
 
 
-▶️ [Blockchain Student Alliance & Sonic CodeCamp @ Pamantasan ng Lungsod ng Maynila](https://x.com/bitskwela/status/1890566702787674463)
+▶️ [Blockchain Student Alliance & Sonic CodeCamp @ Pamantasan ng Lungsod ng Maynila](https://www.bitdigest.io/posts/bitskwela-equips-plm-developers-for-web3-careers-with-sonic-codecamp)
 
 
 <image src="https://github.com/user-attachments/assets/14adc9f0-f591-4871-b1f1-6f517552d225" height="600" width="1000">
