@@ -35,7 +35,8 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 ▶️ [Blockchain Student Alliance & Sonic CodeCamp @ Pamantasan ng Lungsod ng Maynila](https://x.com/bitskwela/status/1890566702787674463)
 
 
-<image src="https://github.com/user-attachments/assets/09005e33-6a36-4c7e-8b3f-7f8170c53409" height="600" width="600">
+<image src="https://github.com/user-attachments/assets/14adc9f0-f591-4871-b1f1-6f517552d225" height="600" width="1000">
+
 
 
 ▶️ [Blockchain Student Alliance & Bitskwela - BitDev! @ University of Southeastern Philippines](https://www.bitdigest.io/posts/highlights-from-bsas-getting-started-with-blockchain-workshop-in-partnership-with-university-of-southeastern-philippines)
