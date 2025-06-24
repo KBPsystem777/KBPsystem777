@@ -7,7 +7,6 @@
 Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4ee1f735-b7e0-40bd-b679-794ea1bcf385/public_url), Full-stack and Blockchain developer. He builds decentralized applications (DApps) revolving around finance (DeFi), gaming (GameFi), real-estate, personal data, automotives and governance sectors.
 
 - Web: https://koleenbp.com
-- [Koleen's Resume](https://drive.google.com/drive/folders/1__81RTu1RbLbmKZFXTG_20HkIzs_z4g6) 
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
 - Twitter: [@kbpsystem](https://twitter.com/kbpsystem)
 - Programming languages: JavaScript (ReactJS),  Solidity and Rust
@@ -15,7 +14,9 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 - [Linktree - Koleen Paunon](https://linktr.ee/koleenbp)
 - Former [counter-terrorism consultant](https://www.un.org/en/ga/sixth/75/int_terrorism/philippines_e.pdf)
 
+## Personal projects I am working on at the moment
 
+- BPxPay: https://pay.bpxai.com
 
 ## Solidity smart contracts
 
@@ -26,6 +27,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 - [ManageLife NFT](https://etherscan.io/address/0x5aa43df98b3fa29595c2884f16ee977fbf3ec344): ManageLife Member's NFT
 - [ManageLife Marketplace](https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746): Decentralized platform for ManageLife
 - [ManageLife Investor's NFT](https://etherscan.io/address/0x553e305f2d8dca274b19b1cef35720d4bc7f8fa0): NFT for ML Investors
+
 
 ## Decentralized apps (dApps)
 
@@ -55,13 +57,6 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 <image src="https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/6753ad90c8a57c460f1c1dc0_bsa-uni-of-cordilleras.png" height="250" width="500">
 
-▶️ [Bitcoin @ 100K 🚀](https://www.facebook.com/share/p/1GcVRkGVrN/)
-
-<image alt="Koleen with DICT PH Tech officials" src="image-3.png" height="450" width="500">
-
-▶️ [Department of Information, Communications and Technology: Blockchain Technology Training](https://www.facebook.com/share/p/15tX7btNU5/)
-
-<image src="image-4.png" alt="DICT Traning" height="450" width="500">
 
 ▶️ [DevUp! Academy @ Oriental Mindoro](https://www.facebook.com/share/p/15uTVJZh6C/)
 
@@ -73,8 +68,14 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 <image alt="FWDP-PH" src="image-2.png" height="350" width="500">
 
-## My Personal thoughts about Blockchain 💻🔗
+## My thoughts and articles 💻🔗
 
-[Blockchain Dev Journey](https://github.com/KBPsystem777/blockchain-development-journey)
+📖 [AI as the developer's ulitimate leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
 
-[My first time @ devcon](https://koleenbp.substack.com/p/my-devcon7-experience-exploring-bangkok)
+📖 [Onchain Financial Inclusion](https://koleenbp.substack.com/p/onchain-financial-inclusion-how-builders)
+
+📖 [Blockchain Dev Journey](https://github.com/KBPsystem777/blockchain-development-journey)
+
+📖 [My first time @ devcon](https://koleenbp.substack.com/p/my-devcon7-experience-exploring-bangkok)
+
+
