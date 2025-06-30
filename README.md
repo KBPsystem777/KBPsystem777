@@ -18,6 +18,8 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 ## Personal projects I am working on at the moment
 
 - BPxPay: https://pay.bpxai.com 💳
+- NegosyoAI: https://negosyo.bpxai.com ✨
+
 
 ## Solidity smart contracts
 
