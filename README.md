@@ -88,7 +88,7 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## My thoughts and articles 💻🔗
 
-💬 [Planting seeds of decentralization on Cagayan de Oro](https://koleenbp.substack.com/p/planting-seeds-of-a-decentralized)
+💬 [Planting seeds of decentralization in Cagayan de Oro](https://koleenbp.substack.com/p/planting-seeds-of-a-decentralized)
 
 💬 [AI as the developer's ulitimate leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
 
