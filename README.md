@@ -11,6 +11,7 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
 - Twitter: [@kbpsystem](https://twitter.com/kbpsystem)
 - Building cool AI stuff at [BPxAI](https://bpxai.com)
+- Founder and Lead Engineer @ [medixAI](https://medix.bpxai.com)
 - Programming languages: JavaScript (ReactJS),  Solidity and Rust
 - On a mission to onboard developers into web3 and briging the world on-chain with [Bitskwela](https://bitskwela.com) & [DevUp!](https://www.devup.academy/)
 - [Linktree - Koleen Paunon](https://linktr.ee/koleenbp)
@@ -20,6 +21,7 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 
 - BPxPay: https://pay.bpxai.com 💳
 - NegosyoAI: https://negosyo.bpxai.com ✨
+- MediXAI: https://medix.bpxai.com 🩺🤖
 
 
 ## Solidity smart contracts
