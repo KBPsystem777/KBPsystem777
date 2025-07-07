@@ -41,7 +41,13 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## 📰Featured Articles and Activities
 
+✅ [Currently building the revolutionary AI powered health care](https://medix.bpxai.com)
+
+<image src="https://medix.bpxai.com/home/medixai.png?height=400&width=600">
+
+
 ✅ [Bringing web3 and Blockchain education in Cagayan De Oro, Philippines](https://x.com/jirols_btc/status/1937031079858430054/photo/3)
+
 
 <image src="https://pbs.twimg.com/media/GuJG73RagAIg1_R?format=jpg&name=4096x4096">
 
