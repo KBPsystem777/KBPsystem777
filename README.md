@@ -10,6 +10,7 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 - Web: https://koleenbp.com
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
 - Twitter: [@kbpsystem](https://twitter.com/kbpsystem)
+- Building cool AI stuff at [BPxAI](https://bpxai.com)
 - Programming languages: JavaScript (ReactJS),  Solidity and Rust
 - On a mission to onboard developers into web3 and briging the world on-chain with [Bitskwela](https://bitskwela.com) & [DevUp!](https://www.devup.academy/)
 - [Linktree - Koleen Paunon](https://linktr.ee/koleenbp)
