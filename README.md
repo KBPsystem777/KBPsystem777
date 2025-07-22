@@ -21,6 +21,7 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 - BPxPay: https://pay.bpxai.com 💳
 - NegosyoAI: https://negosyo.bpxai.com ✨
 - MediXAI: https://medix.bpxai.com 🩺🤖
+- smartMaterials: https://smartmaterials.vercel.app 🏗️
 
 ## Solidity smart contracts
 
@@ -37,6 +38,11 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 - [ML Marketplace](https://market.managelife.io): Smart contracts and web3 integration developer
 
 ## 📰Featured Articles and Activities
+
+
+✅ [Revolutionizing the future of how construction materials are being source](https://smartmaterials.vercel.app)
+
+<image src="https://smartmaterials.vercel.app/images/hero-smartmaterials.png">
 
 ✅ [Currently building the revolutionary AI powered health care](https://medix.bpxai.com)
 
