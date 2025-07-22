@@ -10,7 +10,7 @@ Koleen is a certified [AWS Solutions Architect](https://www.credly.com/badges/4e
 - LinkedIn: [Koleen BP](https://www.linkedin.com/in/koleenbp)
 - Twitter: [@kbpsystem](https://twitter.com/kbpsystem)
 - Building cool AI stuff at [BPxAI](https://bpxai.com)
-- Founder and Lead Engineer @ [medixAI](https://medix.bpxai.com)
+- Founder and Lead Engineer @ [medixAI](https://medix.bpxai.com) & [smartMaterials](https://smartmaterials.vercel.app)
 - Programming languages: JavaScript, TypeScript & Solidity
 - On a mission to onboard developers into web3 and briging the world on-chain with [Bitskwela](https://bitskwela.com) & [DevUp!](https://www.devup.academy/)
 - [Linktree - Koleen Paunon](https://linktr.ee/koleenbp)
