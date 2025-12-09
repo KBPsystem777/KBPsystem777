@@ -85,6 +85,10 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## My thoughts and articles 💻🔗
 
+💬 [Commission on Audit Talks](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
+
+💬 [Turning codes into real jobs @ Abra](https://substack.com/home/post/p-149493891)
+
 💬 [Planting seeds of decentralization in Cagayan de Oro](https://koleenbp.substack.com/p/planting-seeds-of-a-decentralized)
 
 💬 [AI as the developer's ulitimate leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
