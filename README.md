@@ -85,6 +85,8 @@ You may checkout my collection of gists below for Solidity smart contracts or vi
 
 ## My thoughts and articles 💻🔗
 
+💬 [Is blockchain really unhackable?](https://koleenbp.substack.com/p/is-blockchain-really-unhackable)
+
 💬 [Commission on Audit Talks](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
 
 💬 [Turning codes into real jobs @ Abra](https://substack.com/home/post/p-149493891)
