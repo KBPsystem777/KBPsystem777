@@ -1,4 +1,4 @@
-# Koleen Paunon — Building Trusted AI & Distributed Systems for the Philippines
+# Koleen Paunon — Building Trusted AI & Distributed Systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kbpsystem777&style=for-the-badge)
 [![WakaTime](https://wakatime.com/badge/user/7d99c5ac-1c90-4a13-8706-47306dc78f9d.svg)](https://wakatime.com/@7d99c5ac-1c90-4a13-8706-47306dc78f9d)
