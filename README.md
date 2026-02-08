@@ -1,11 +1,13 @@
 # Koleen Paunon — Building Trusted AI & Distributed Systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kbpsystem777&style=for-the-badge)
+
 [![WakaTime](https://wakatime.com/badge/user/7d99c5ac-1c90-4a13-8706-47306dc78f9d.svg)](https://wakatime.com/@7d99c5ac-1c90-4a13-8706-47306dc78f9d)
+
 
 I am a **systems engineer, tech lead, and founder** focused on building **trusted digital infrastructure** using **AI and Distributed Ledger Technology (DLT)**.
 
-My work spans **financial systems, provenance, identity, healthcare, and developer education**, with a strong emphasis on **regulatory-grade architectures**, real-world deployment, and explainable systems for institutions in the Philippines.
+My work spans **financial systems, provenance, identity, healthcare, and developer education**, with a strong emphasis on **regulatory-grade architectures**, real-world deployment, and explainable systems for institutions in the Philippines. Former counter-terrorism consultant.
 
 I believe:
 > **AI may assist judgment — but verifiable systems must remain the source of truth.**
