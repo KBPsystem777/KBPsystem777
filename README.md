@@ -76,6 +76,7 @@ I actively advocate for **blockchain literacy, responsible decentralization, and
 
 ## ✍️ Writing & Thought Leadership
 
+- [2016-2026 Philippine Counter-terrorism recap](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/decade-of-strategic-evolution/)
 - [Is blockchain really unhackable?](https://koleenbp.substack.com/p/is-blockchain-really-unhackable)
 - [Blockchain for Government & COA](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
 - [AI as a Developer’s Ultimate Leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
