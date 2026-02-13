@@ -1,20 +1,39 @@
-# Koleen Paunon — Building Trusted AI & Distributed Systems
+# Koleen Baes Paunon
+
+
+### Risk Intelligence Systems Architect | Distributed Ledger Tech Lead | AI Infra Builder
+
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kbpsystem777&style=for-the-badge)
 
+
 [![WakaTime](https://wakatime.com/badge/user/7d99c5ac-1c90-4a13-8706-47306dc78f9d.svg)](https://wakatime.com/@7d99c5ac-1c90-4a13-8706-47306dc78f9d)
+
 
 
 I am a **systems engineer, tech lead, and founder** focused on building **trusted digital infrastructure** using **AI and Distributed Ledger Technology (DLT)**.
 
 My work spans **financial systems, provenance, identity, healthcare, and developer education**, with a strong emphasis on **regulatory-grade architectures**, real-world deployment, and explainable systems for institutions in the Philippines. Former counter-terrorism consultant.
 
-I believe:
-> **AI may assist judgment — but verifiable systems must remain the source of truth.**
 
 ---
 
-## 🔧 What I Build
+## Selected Systems & Platforms
+
+### Business Operations Systems
+
+**SnackPax Ops**  
+Operational PWA for a bootstrapped food business.  
+Tracks real-time sales, workforce management, and inventory flow.
+
+**WashMe**  
+Multi-tenant SaaS for laundry and small service operators.  
+Designed with modular billing, tenant isolation, and operational dashboards.
+
+
+---
 
 ### AI & Platform Systems
 - **MediXAI** — AI-powered medical triage and referral system improving access to healthcare  
@@ -26,7 +45,7 @@ I believe:
 - **smartMaterials** — Provenance-driven construction materials marketplace  
   👉 https://smartmaterials.vercel.app  
 
----
+
 
 ## 🧠 Technical Focus Areas
 
@@ -40,7 +59,7 @@ I believe:
 **Languages:** JavaScript, TypeScript, Solidity  
 **Cloud:** AWS (Certified Solutions Architect)  
 
----
+
 
 ## 🔐 Selected Solidity Smart Contracts & dApps
 
@@ -54,8 +73,6 @@ Below are selected smart contracts and dApps I built to explore **asset tokeniza
   https://etherscan.io/address/0x5aa43df98b3fa29595c2884f16ee977fbf3ec344  
 - **ManageLife Marketplace**  
   https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746  
-
-👉 Full Solidity gists: https://gist.github.com/KBPsystem777
 
 ---
 
@@ -72,7 +89,8 @@ I actively advocate for **blockchain literacy, responsible decentralization, and
 
 ![Bitskwela](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png)
 
----
+
+
 
 ## ✍️ Writing & Thought Leadership
 
@@ -83,7 +101,26 @@ I actively advocate for **blockchain literacy, responsible decentralization, and
 - [On-chain Financial Inclusion](https://koleenbp.substack.com/p/onchain-financial-inclusion-how-builders)
 - [Blockchain Development Journey](https://github.com/KBPsystem777/blockchain-development-journey)
 
----
+
+
+
+
+## National & Strategic Research
+
+I publish structured risk and security analysis covering:
+
+- Counterterrorism evolution in Southeast Asia  
+- Maritime security and hybrid threat modeling  
+- Intelligence system modernization  
+
+
+**Featured Report:**  
+- [Philippine Counterterrorism 2016–2026](https://github.com/KBPsystem777/ph-risk-intelligence-research/blob/main/reports/decade-of-strategic-evolution/README.md)
+
+Focus: intelligence architecture, predictive systems, and institutional resilience.
+
+
+
 
 ## What I’m Building Toward
 
@@ -101,6 +138,49 @@ I’m especially interested in collaborations involving:
 - AI + governance
 - Developer education at scale
 
+
+
+
+## Architecture Philosophy
+
+- Verifiable systems > blind trust  
+- Security-first design in regulated environments  
+- AI assists decision-making; accountability remains human  
+- Durable business models over trend-driven hype  
+- Build boring infrastructure that compounds value  
+
+
+
+## Technical Domains
+
+- Distributed Systems  
+- Smart Contracts & Token Design  
+- Multi-tenant SaaS Architecture  
+- AI Integration & Agent Workflows  
+- Operational Dashboards & Analytics  
+- Cloud Infrastructure (AWS)  
+- Frontend & Middleware Engineering  
+
+
+## Professional Role
+
+**DLT Tech Lead — Regulated Financial Institution**
+
+Responsible for blockchain integration strategy, architecture oversight, and system validation across multiple technology layers.
+
+
+
+## Contact
+
+Open to:
+
+- High-trust system consulting  
+- Blockchain architecture engagements  
+- AI-assisted operational platforms  
+- Strategic advisory roles  
+
+Email: koleen.bp@outlook.com
+
 ---
 
 ## 🌐 Find Me
@@ -111,6 +191,5 @@ I’m especially interested in collaborations involving:
 - TikTok: https://www.tiktok.com/@koleenbp  
 - Linktree: https://linktr.ee/koleenbp  
 
----
 
-> *“Code is easy. Trust is hard. I build systems that earn it.”*
+
