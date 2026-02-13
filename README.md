@@ -92,8 +92,9 @@ I actively advocate for **blockchain literacy, responsible decentralization, and
 
 
 
-## ✍️ Writing & Thought Leadership
+## ✍️ Research & Thought Leadership
 
+- [My personal proposal: AI Defense Framework for Philippine Security & Defense Agencies](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/ai-defence-intelligence-framework/)
 - [2016-2026 Philippine Counter-terrorism recap](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/decade-of-strategic-evolution/)
 - [Is blockchain really unhackable?](https://koleenbp.substack.com/p/is-blockchain-really-unhackable)
 - [Blockchain for Government & COA](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
