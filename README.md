@@ -1,7 +1,7 @@
 # Koleen Baes Paunon
 
 
-### Risk Intelligence Systems Architect | Distributed Ledger Tech Lead | AI Infra Builder
+### Risk Intelligence Systems | Distributed Ledger Tech Lead | AI Infra Builder
 
 
 ---
