@@ -1,196 +1,135 @@
 # Koleen Baes Paunon
 
-
-### Risk Intelligence Systems | Distributed Ledger Tech Lead | AI Infra Builder
-
+### Tech Lead | AI & Blockchain Architect | Builder of Trusted Digital Infrastructure in the Philippines
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kbpsystem777&style=for-the-badge)
 
-
 [![WakaTime](https://wakatime.com/badge/user/7d99c5ac-1c90-4a13-8706-47306dc78f9d.svg)](https://wakatime.com/@7d99c5ac-1c90-4a13-8706-47306dc78f9d)
 
+I lead the design and deployment of **AI-powered platforms and distributed ledger systems** for regulated industries in the Philippines. My work sits at the intersection of **financial technology, national security, and developer empowerment** — building infrastructure that institutions can trust and developers can build on.
 
-
-I am a **systems engineer, tech lead, and founder** focused on building **trusted digital infrastructure** using **AI and Distributed Ledger Technology (DLT)**.
-
-My work spans **financial systems, provenance, identity, healthcare, and developer education**, with a strong emphasis on **regulatory-grade architectures**, real-world deployment, and explainable systems for institutions in the Philippines. Former counter-terrorism consultant.
-
+From architecting blockchain solutions inside a regulated financial institution to training the next generation of Filipino Web3 developers nationwide, I operate across the full spectrum — from **boardroom strategy to production code**.
 
 ---
 
-## Selected Systems & Platforms
+## Flagship Platforms
 
-### Business Operations Systems
+### AI & Intelligent Systems
 
-**SnackPax Ops**  
-Operational PWA for a bootstrapped food business.  
-Tracks real-time sales, workforce management, and inventory flow.
+- **MediXAI** — AI-driven medical triage and referral engine expanding healthcare access across the Philippines
+  👉 https://medix.bpxai.com
+- **NegosyoAI** — AI-powered business assistants purpose-built for Filipino MSMEs
+  👉 https://negosyo.bpxai.com
 
-**WashMe**  
-Multi-tenant SaaS for laundry and small service operators.  
-Designed with modular billing, tenant isolation, and operational dashboards.
+### Financial & Commerce Infrastructure
 
+- **BPxPay** — Programmable payment infrastructure for the next era of Philippine fintech
+  👉 https://pay.bpxai.com
+- **smartMaterials** — Provenance-verified construction materials marketplace
+  👉 https://smartmaterials.vercel.app
 
----
+### Business Operations
 
-### AI & Platform Systems
-- **MediXAI** — AI-powered medical triage and referral system improving access to healthcare  
-  👉 https://medix.bpxai.com  
-- **NegosyoAI** — AI assistants for Filipino MSMEs to automate operations and decision-making  
-  👉 https://negosyo.bpxai.com  
-- **BPxPay** — Experimental payment infrastructure exploring programmable finance  
-  👉 https://pay.bpxai.com  
-- **smartMaterials** — Provenance-driven construction materials marketplace  
-  👉 https://smartmaterials.vercel.app  
-
-
-
-## 🧠 Technical Focus Areas
-
-- Distributed Ledger Technology (DLT / Blockchain)
-- AI-assisted decision systems
-- Provenance & traceability
-- Digital identity & trust
-- Secure backend systems
-- Regulatory & enterprise-grade architectures
-
-**Languages:** JavaScript, TypeScript, Solidity  
-**Cloud:** AWS (Certified Solutions Architect)  
-
-
-
-## 🔐 Selected Solidity Smart Contracts & dApps
-
-Below are selected smart contracts and dApps I built to explore **asset tokenization, ownership models, and decentralized marketplaces**.
-
-- **ManageLife** — Decentralized real-estate management platform  
-  https://managelife.co  
-- **ManageLife ERC20 Token**  
-  https://etherscan.io/address/0x113361a5ca06a36b63646d6ab076f3d040970c97  
-- **ManageLife Membership NFT**  
-  https://etherscan.io/address/0x5aa43df98b3fa29595c2884f16ee977fbf3ec344  
-- **ManageLife Marketplace**  
-  https://etherscan.io/address/0x81906929b10416a65a305d498267fe20adfc4746  
+**SnackPax Ops**
+Real-time operational platform for a bootstrapped food enterprise — covering sales analytics, workforce management, and inventory intelligence.
 
 ---
-
-## 🎓 Advocacy, Talks & Community Work
-
-I actively advocate for **blockchain literacy, responsible decentralization, and developer upskilling** across the Philippines through talks, workshops, and hands-on programs.
-
-- Blockchain Student Alliance & Bitskwela — multiple universities nationwide  
-- Solidity & Blockchain 101 — Davao, Manila, Cordilleras, Mindoro  
-- DevCon Thailand — Ethereum ecosystem participation  
-- Live coding & dev education sessions  
-
-*(Selected highlights below)*
-
-![Bitskwela](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png)
-
-
-
-
-## ✍️ Research & Thought Leadership
-
-- [My personal proposal: AI Defense Framework for Philippine Security & Defense Agencies](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/ai-defence-intelligence-framework/)
-- [2016-2026 Philippine Counter-terrorism recap](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/decade-of-strategic-evolution/)
-- [Is blockchain really unhackable?](https://koleenbp.substack.com/p/is-blockchain-really-unhackable)
-- [Blockchain for Government & COA](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
-- [AI as a Developer’s Ultimate Leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
-- [On-chain Financial Inclusion](https://koleenbp.substack.com/p/onchain-financial-inclusion-how-builders)
-- [Blockchain Development Journey](https://github.com/KBPsystem777/blockchain-development-journey)
-
-
-
-
-
-## National & Strategic Research
-
-I publish structured risk and security analysis covering:
-
-- Counterterrorism evolution in Southeast Asia  
-- Maritime security and hybrid threat modeling  
-- Intelligence system modernization  
-
-
-**Featured Report:**  
-- [Philippine Counterterrorism 2016–2026](https://github.com/KBPsystem777/ph-risk-intelligence-research/blob/main/reports/decade-of-strategic-evolution/README.md)
-
-Focus: intelligence architecture, predictive systems, and institutional resilience.
-
-
-
-
-## What I’m Building Toward
-
-I’m focused on contributing to a future where:
-
-- Trust is **embedded into systems**, not assumed
-- AI assists humans but does not override **verifiable truth**
-- Distributed ledgers **support regulators**, not bypass them
-- Filipino developers can **compete globally while solving local problems**
-
-I’m especially interested in collaborations involving:
-- Financial infrastructure
-- Provenance & traceability
-- Digital identity
-- AI + governance
-- Developer education at scale
-
-
-
-
-## Architecture Philosophy
-
-- Verifiable systems > blind trust  
-- Security-first design in regulated environments  
-- AI assists decision-making; accountability remains human  
-- Durable business models over trend-driven hype  
-- Build boring infrastructure that compounds value  
-
-
-
-## Technical Domains
-
-- Distributed Systems  
-- Smart Contracts & Token Design  
-- Multi-tenant SaaS Architecture  
-- AI Integration & Agent Workflows  
-- Operational Dashboards & Analytics  
-- Cloud Infrastructure (AWS)  
-- Frontend & Middleware Engineering  
-
 
 ## Professional Role
 
 **DLT Tech Lead — Regulated Financial Institution**
 
-Responsible for blockchain integration strategy, architecture oversight, and system validation across multiple technology layers.
-
-
-
-## Contact
-
-Open to:
-
-- High-trust system consulting  
-- Blockchain architecture engagements  
-- AI-assisted operational platforms  
-- Strategic advisory roles  
-
-Email: koleen.bp@outlook.com
+Responsible for end-to-end blockchain integration strategy, systems architecture, and production validation across multiple technology layers within a regulated Philippine financial institution.
 
 ---
 
-## 🌐 Find Me
+## National Security & Strategic Research
 
-- Web: https://koleenbp.com  
-- LinkedIn: https://www.linkedin.com/in/koleenbp  
-- Twitter/X: https://twitter.com/kbpsystem  
-- TikTok: https://www.tiktok.com/@koleenbp  
-- Linktree: https://linktr.ee/koleenbp  
+I publish structured intelligence and risk analysis in service of Philippine defense modernization:
+
+- **AI Defense Framework** — A personal proposal for Philippine security & defense agencies
+  👉 [Read the framework](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/ai-defence-intelligence-framework/)
+- **Philippine Counterterrorism 2016–2026** — A decade of strategic evolution
+  👉 [Read the report](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/decade-of-strategic-evolution/)
+
+Focus areas: intelligence architecture, predictive systems, hybrid threat modeling, maritime security, and institutional resilience.
+
+Former counter-terrorism consultant.
+
+---
+
+## Thought Leadership & Publications
+
+- [Is blockchain really unhackable?](https://koleenbp.substack.com/p/is-blockchain-really-unhackable)
+- [Blockchain for Government & COA](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
+- [AI as a Developer's Ultimate Leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
+- [On-chain Financial Inclusion](https://koleenbp.substack.com/p/onchain-financial-inclusion-how-builders)
+- [Blockchain Development Journey](https://github.com/KBPsystem777/blockchain-development-journey)
+
+---
+
+## Developer Education & Nationwide Impact
+
+I lead blockchain and Web3 education programs across the Philippines — from university lecture halls to government training centers — building a pipeline of globally competitive Filipino developers.
 
 
 
+![Bitskwela](https://cdn.prod.website-files.com/65caf45457fd0cc1889666d2/675bac4771d12058a806dce0_bsa-university-of-southeastern.png)
+
+---
+
+## Technical Stack
+
+**Languages:** JavaScript, TypeScript, Solidity
+**Cloud:** AWS (Certified Solutions Architect)
+
+**Core Domains:**
+- Distributed Ledger Technology & Smart Contract Design
+- AI Integration & Autonomous Agent Workflows
+- Multi-tenant SaaS Architecture
+- Cloud Infrastructure & DevOps (AWS)
+- Frontend, Middleware & API Engineering
+- Operational Dashboards & Real-time Analytics
+
+---
+
+## Architecture Philosophy
+
+- Verifiable systems over blind trust
+- Security-first design in regulated environments
+- AI assists decision-making; accountability remains human
+- Durable business models over trend-driven hype
+- Build boring infrastructure that compounds value
+
+---
+
+## What I'm Building Toward
+
+- Trust **embedded into systems**, not assumed
+- AI that assists humans without overriding **verifiable truth**
+- Distributed ledgers that **support regulators**, not bypass them
+- Filipino developers who **compete globally while solving local problems**
+
+---
+
+## Open to Collaboration
+
+- Blockchain architecture & strategy consulting
+- AI-powered operational platforms
+- High-trust system design for regulated industries
+- Strategic advisory roles
+- Developer education partnerships
+
+**Email:** koleen.bp@outlook.com
+
+---
+
+## Connect
+
+- Web: https://koleenbp.com
+- LinkedIn: https://www.linkedin.com/in/koleenbp
+- Twitter/X: https://twitter.com/kbpsystem
+- TikTok: https://www.tiktok.com/@koleenbp
+- Linktree: https://linktr.ee/koleenbp
