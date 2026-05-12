@@ -1,3 +1,5 @@
+I've never been a natural. All I do is try, try, try.
+
 # Koleen Baes Paunon
 ### Senior AI Engineer & Technical Founder | LLM Integration | Blockchain Architecture | Production Systems
 
