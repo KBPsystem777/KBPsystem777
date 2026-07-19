@@ -1,7 +1,7 @@
 I've never been a natural. All I do is try, try, try.
 
 # Koleen Baes Paunon
-### Senior AI Engineer & Technical Founder | LLM Integration | Blockchain Architecture | Production Systems
+### Senior AI Engineer & Technical Founder | LLM Systems | Blockchain Architecture | Production at Scale
 
 ---
 
@@ -9,57 +9,61 @@ I've never been a natural. All I do is try, try, try.
 
 [![WakaTime](https://wakatime.com/badge/user/7d99c5ac-1c90-4a13-8706-47306dc78f9d.svg)](https://wakatime.com/@7d99c5ac-1c90-4a13-8706-47306dc78f9d)
 
-I build AI-powered systems and distributed ledger infrastructure that operate in production — not in demos.
+I build AI-powered systems and distributed ledger infrastructure that run in production — not in demos, not in decks.
 
-13 years of enterprise delivery across Deloitte Digital APAC, Accenture US/EU, and central bank regulated financial infrastructure. Today I operate independently under **BPxAI** — building AI products, taking on senior engineering contracts, and training the next generation of Filipino developers who will compete globally.
+13 years of enterprise delivery across Deloitte Digital APAC, Accenture US/EU, and central bank regulated financial infrastructure. Today I operate independently under **BPxAI** — founding AI products, taking senior engineering contracts, gatekeeping production merges for a sports technology venture, and training the next generation of Filipino developers who will compete globally.
 
-From architecting LLM pipelines with 90% token cost reduction, to shipping Corda Enterprise blockchain under central bank regulation, to teaching Philippine government employees to deploy live Ethereum smart contracts — I operate across the full spectrum. **Boardroom strategy to production code.**
+From LLM pipelines with 90% token cost reduction, to Corda Enterprise blockchain shipped under central bank regulation, to teaching Philippine government employees to deploy live Ethereum smart contracts — I operate the full spectrum. **Boardroom strategy to production code, with nothing lost in translation.**
 
 ---
 
-## Flagship Platforms
+## Ventures & Platforms
 
 ### AI & Intelligent Systems
-- **MedixAI** — AI clinical operating system for Philippine physicians. SOAP note generation, pre-consultation intake, and diagnostic triage powered by Anthropic Claude API.
+- **MedixAI** — AI clinical operating system for Philippine physicians. SOAP note generation, pre-consultation intake, and diagnostic triage powered by the Anthropic Claude API. 40+ verified PRC-licensed physicians onboarded through organic distribution, with live clinical validation across multiple specialties. Real patients routing through the platform.
   👉 https://getmedixai.com
-- **Memory7** — AI-powered platform that transforms event photos into curated memory walls using vision AI to auto-caption, design layouts, and assemble shareable event narratives.
-  👉 https://m7.bpxai.com
+
+
+
+### Sports Technology
+- **Dayou Sports Technologies** — Co-founder, Principal Engineer, and sole merge gatekeeper. Owning architecture, engineering standards, and the entire quality bar for a production sports technology platform.
 
 ### Business Operations
-**SnackPax Ops**
-Real-time operational platform for a bootstrapped food enterprise covering sales analytics, workforce management, and inventory intelligence.
+- **SnackPax Ops** — Real-time operational platform for a bootstrapped food enterprise covering sales analytics, workforce management, and inventory intelligence.
 
 ---
 
 ## Independent Work & Contracts
 
-**Founder & Solo Technical Founder — MedixAI, BPxAI Labs** *(July 2025 – Present)*
-Built and shipped a production AI healthcare intelligence layer end-to-end as sole technical founder. Anthropic Claude API integration with prompt caching achieving 90% input token cost reduction. Stack: Next.js 15, TypeScript, Supabase, AWS.
+**Founder & Solo Technical Founder — MedixAI, BPxAI Labs**
+Built and shipped a production AI healthcare intelligence layer end-to-end as sole technical founder. Anthropic Claude API integration with prompt caching achieving 90% input token cost reduction. Stack: Next.js 15, TypeScript, Supabase, Inngest, AWS.
 
-**Senior Consultant, Enterprise Systems — Deloitte Digital** *(August 2021 – November 2025)*
+**Senior Consultant, Enterprise Systems — Deloitte Digital**
 APAC & Australia. Delivered enterprise platforms for AustralianSuper (3.4M+ members), Abbott, and Travel Money Group. Led 4-engineer teams under strict governance frameworks.
 
-**Senior Software Engineer — Accenture** *(August 2013 – July 2021)*
+**Senior Software Engineer — Accenture**
 US & EU. Delivered large-scale systems for Xcel Energy, Entergy, Exelon/BGE (1.2M+ customers), and BDR Thermea (1.5M+ units). Led four cross-functional engineering pods globally.
 
 ---
 
 ## National Security & Strategic Research
 
-I publish structured intelligence and risk analysis in service of Philippine defense modernization:
+I publish structured intelligence, cryptographic risk analysis, and defense modernization research from the Philippines:
 
+- **Ronway** — Post-quantum cryptography scanner built in Rust. Identifies cryptographic exposure ahead of the quantum transition.
+- **Philippine PQC Readiness Index** — Authored national assessment of post-quantum cryptographic readiness.
 - **AI Defense Framework** — A personal proposal for Philippine security & defense agencies
   👉 [Read the framework](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/ai-defence-intelligence-framework/)
 - **Philippine Counterterrorism 2016–2026** — A decade of strategic evolution
   👉 [Read the report](https://kbpsystem777.github.io/ph-risk-intelligence-research/reports/decade-of-strategic-evolution/)
 
-Focus areas: intelligence architecture, predictive systems, hybrid threat modeling, maritime security, and institutional resilience.
+Focus areas: intelligence architecture, predictive systems, post-quantum cryptography, hybrid threat modeling, maritime security, and institutional resilience.
 
 ---
 
 ## Thought Leadership & Publications
 
-- 🆕 [The Quiet Revolution: How the Philippine Government Is Learning to Code the Future](https://koleenbp.substack.com/p/the-quiet-revolution-how-the-philippine)
+- [The Quiet Revolution: How the Philippine Government Is Learning to Code the Future](https://koleenbp.substack.com/p/the-quiet-revolution-how-the-philippine)
 - [Is blockchain really unhackable?](https://koleenbp.substack.com/p/is-blockchain-really-unhackable)
 - [Blockchain for Government & COA](https://koleenbp.substack.com/p/blockchain-for-government-lessons)
 - [AI as a Developer's Ultimate Leverage](https://koleenbp.substack.com/p/ai-is-not-a-threat-to-developers)
@@ -70,7 +74,7 @@ Focus areas: intelligence architecture, predictive systems, hybrid threat modeli
 
 ## Developer Education & Nationwide Impact
 
-I lead blockchain and Web3 education programs across the Philippines — from university lecture halls to government training centers — building a pipeline of globally competitive Filipino developers.
+I lead blockchain and Web3 education across the Philippines — university lecture halls to government training centers — building a pipeline of globally competitive Filipino developers. 1,000+ developers trained through national programs to date.
 
 In March 2026, I facilitated the Philippine DICT's first-ever Solidity bootcamp, where government employees deployed live smart contracts on Ethereum testnet. This is what building a nation's technical capacity looks like.
 
@@ -80,11 +84,16 @@ In March 2026, I facilitated the Philippine DICT's first-ever Solidity bootcamp,
 
 ## Technical Stack
 
-**Languages:** TypeScript, JavaScript, Python (applied), Solidity, Kotlin (Corda)
+**Languages:** TypeScript, JavaScript, Python (applied), Solidity, Rust, Kotlin (Corda)
+
 **AI & LLM:** Anthropic Claude API, OpenAI API, RAG pipelines, prompt engineering, prompt caching, agentic workflows, vector search (pgvector, Pinecone), LangChain
+
 **Frontend:** Next.js 15, React, Tailwind CSS, shadcn/ui
-**Backend & Data:** Node.js, Supabase, PostgreSQL, REST APIs
+
+**Backend & Data:** Node.js, Supabase, PostgreSQL, Inngest, REST APIs
+
 **Blockchain:** Corda Enterprise (R3 DLT), Solidity, Hardhat, ERC20/ERC721/ERC1155, OpenZeppelin, DeFi, NFT marketplaces
+
 **Cloud & Infra:** AWS (SAA-C02), Docker, Kubernetes, CI/CD, Vercel Edge
 
 ---
